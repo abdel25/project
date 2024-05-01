@@ -1,0 +1,10 @@
+streamlit>=1.28
+openai>=1.2
+
+llama-index
+llama-index-core
+llama-parse
+llama-index-embeddings-openai
+llama-index-llms-openai
+
+llama-index-llms-langchain
